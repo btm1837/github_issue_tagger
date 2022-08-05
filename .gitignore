@@ -1,3 +1,9 @@
 
 *.txt
 *.csv
+model/distilbert_uncased_github_issue_tagger-20220801T050257Z-001.zip
+model/distilbert_uncased_github_issue_tagger/pytorch_model.bin
+model/distilbert_uncased_github_issue_tagger/special_tokens_map.json
+model/distilbert_uncased_github_issue_tagger/tokenizer.json
+model/distilbert_uncased_github_issue_tagger/tokenizer_config.json
+model/distilbert_uncased_github_issue_tagger/config.json
