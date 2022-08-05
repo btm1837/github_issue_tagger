@@ -7,3 +7,8 @@ model/distilbert_uncased_github_issue_tagger/special_tokens_map.json
 model/distilbert_uncased_github_issue_tagger/tokenizer.json
 model/distilbert_uncased_github_issue_tagger/tokenizer_config.json
 model/distilbert_uncased_github_issue_tagger/config.json
+tests/cooking.stackexchange.id
+tests/cooking.stackexchange.tar.gz
+src/cooking.stackexchange.id
+src/cooking.stackexchange.tar.gz
+tests/cooking.train
