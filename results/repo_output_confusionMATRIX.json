@@ -1,0 +1,566 @@
+[
+    {
+        "RESULTS FOR": "SDL",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.20952380952380953,
+                0.9083085071168487,
+                NaN
+            ],
+            "Recall": [
+                0.25287356321839083,
+                0.8558951965065502,
+                NaN
+            ],
+            "Precision": [
+                0.17886178861788618,
+                0.9675599435825106,
+                0.0
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.20952380952380953,
+                0.9083085071168487,
+                NaN
+            ],
+            "Recall": [
+                0.25287356321839083,
+                0.8558951965065502,
+                NaN
+            ],
+            "Precision": [
+                0.17886178861788618,
+                0.9675599435825106,
+                0.0
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "dbeaver",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.22870478413068843,
+                0.5809722636444975,
+                0.3724867724867725
+            ],
+            "Recall": [
+                0.4279475982532751,
+                0.46447305674773487,
+                0.4861878453038674
+            ],
+            "Precision": [
+                0.15605095541401273,
+                0.7754777070063694,
+                0.3018867924528302
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.22870478413068843,
+                0.5809722636444975,
+                0.3724867724867725
+            ],
+            "Recall": [
+                0.4279475982532751,
+                0.46447305674773487,
+                0.4861878453038674
+            ],
+            "Precision": [
+                0.15605095541401273,
+                0.7754777070063694,
+                0.3018867924528302
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "rstudio",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.5815831987075929,
+                0.7501442585112522,
+                NaN
+            ],
+            "Recall": [
+                0.46272493573264784,
+                0.6578947368421053,
+                NaN
+            ],
+            "Precision": [
+                0.782608695652174,
+                0.87248322147651,
+                0.0
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.5815831987075929,
+                0.7501442585112522,
+                NaN
+            ],
+            "Recall": [
+                0.46272493573264784,
+                0.6578947368421053,
+                NaN
+            ],
+            "Precision": [
+                0.782608695652174,
+                0.87248322147651,
+                0.0
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "symfony",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.12307692307692307,
+                0.7879503839338453,
+                NaN
+            ],
+            "Recall": [
+                0.43636363636363634,
+                0.6577909270216963,
+                NaN
+            ],
+            "Precision": [
+                0.07164179104477612,
+                0.9823269513991163,
+                0.0
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.12307692307692307,
+                0.7879503839338453,
+                NaN
+            ],
+            "Recall": [
+                0.43636363636363634,
+                0.6577909270216963,
+                NaN
+            ],
+            "Precision": [
+                0.07164179104477612,
+                0.9823269513991163,
+                0.0
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "godot",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.38929695697796435,
+                0.8043836679274561,
+                NaN
+            ],
+            "Recall": [
+                0.3934252386002121,
+                0.711931330472103,
+                NaN
+            ],
+            "Precision": [
+                0.3852544132917965,
+                0.9244315648684797,
+                0.0
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.38929695697796435,
+                0.8043836679274561,
+                NaN
+            ],
+            "Recall": [
+                0.3934252386002121,
+                0.711931330472103,
+                NaN
+            ],
+            "Precision": [
+                0.3852544132917965,
+                0.9244315648684797,
+                0.0
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "terraform",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.6048454469507101,
+                0.8878319460959176,
+                0.17102966841186737
+            ],
+            "Recall": [
+                0.49118046132971505,
+                0.8864265927977839,
+                0.3402777777777778
+            ],
+            "Precision": [
+                0.7869565217391304,
+                0.8892417626042081,
+                0.11421911421911422
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                0.6048454469507101,
+                0.8878319460959176,
+                0.17102966841186737
+            ],
+            "Recall": [
+                0.49118046132971505,
+                0.8864265927977839,
+                0.3402777777777778
+            ],
+            "Precision": [
+                0.7869565217391304,
+                0.8892417626042081,
+                0.11421911421911422
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "QGIS",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.7226378498198947,
+                NaN
+            ],
+            "Recall": [
+                NaN,
+                0.5657266811279826,
+                NaN
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.7226378498198947,
+                NaN
+            ],
+            "Recall": [
+                NaN,
+                0.5657266811279826,
+                NaN
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "vscode",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.8720100713386488,
+                0.1511879049676026
+            ],
+            "Recall": [
+                NaN,
+                0.7794448612153039,
+                0.4166666666666667
+            ],
+            "Precision": [
+                0.0,
+                0.9895238095238095,
+                0.09234828496042216
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.8720100713386488,
+                0.1511879049676026
+            ],
+            "Recall": [
+                NaN,
+                0.7794448612153039,
+                0.4166666666666667
+            ],
+            "Precision": [
+                0.0,
+                0.9895238095238095,
+                0.09234828496042216
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "vscode",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.8722275139474759,
+                NaN
+            ],
+            "Recall": [
+                NaN,
+                0.7734073359073359,
+                NaN
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.8722275139474759,
+                NaN
+            ],
+            "Recall": [
+                NaN,
+                0.7734073359073359,
+                NaN
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "tgstation",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.806679511881824,
+                NaN
+            ],
+            "Recall": [
+                NaN,
+                0.6759956942949408,
+                NaN
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.806679511881824,
+                NaN
+            ],
+            "Recall": [
+                NaN,
+                0.6759956942949408,
+                NaN
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "Barotrauma",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.771689497716895,
+                0.008810572687224669
+            ],
+            "Recall": [
+                NaN,
+                0.6282527881040892,
+                0.5
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0044444444444444444
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.771689497716895,
+                0.008810572687224669
+            ],
+            "Recall": [
+                NaN,
+                0.6282527881040892,
+                0.5
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0044444444444444444
+            ]
+        }
+    },
+    {
+        "RESULTS FOR": "Kaiserreich-4",
+        "result_balanced": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.8342429440199595,
+                NaN
+            ],
+            "Recall": [
+                NaN,
+                0.7156233279828785,
+                NaN
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "result_augmented": {
+            "labels_list": [
+                "__label__enhancement",
+                "__label__bug",
+                "__label__question"
+            ],
+            "F1": [
+                NaN,
+                0.8342429440199595,
+                NaN
+            ],
+            "Recall": [
+                NaN,
+                0.7156233279828785,
+                NaN
+            ],
+            "Precision": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        }
+    }
+]
