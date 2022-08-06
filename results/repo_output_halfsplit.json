@@ -1,0 +1,158 @@
+[
+    {
+        "RESULTS FOR": "SDL",
+        "result_balanced": {
+            "F1": 1.0,
+            "Recall": 1.0,
+            "Precision": 1.0
+        },
+        "result_augmented": {
+            "F1": 1.0,
+            "Recall": 1.0,
+            "Precision": 1.0
+        }
+    },
+    {
+        "RESULTS FOR": "dbeaver",
+        "result_balanced": {
+            "F1": 0.491566265060241,
+            "Recall": 0.491566265060241,
+            "Precision": 0.491566265060241
+        },
+        "result_augmented": {
+            "F1": 0.491566265060241,
+            "Recall": 0.491566265060241,
+            "Precision": 0.491566265060241
+        }
+    },
+    {
+        "RESULTS FOR": "rstudio",
+        "result_balanced": {
+            "F1": 0.6329113924050633,
+            "Recall": 0.6329113924050633,
+            "Precision": 0.6329113924050633
+        },
+        "result_augmented": {
+            "F1": 0.6329113924050633,
+            "Recall": 0.6329113924050633,
+            "Precision": 0.6329113924050633
+        }
+    },
+    {
+        "RESULTS FOR": "symfony",
+        "result_balanced": {
+            "F1": 0.5,
+            "Recall": 0.5,
+            "Precision": 0.5
+        },
+        "result_augmented": {
+            "F1": 0.5,
+            "Recall": 0.5,
+            "Precision": 0.5
+        }
+    },
+    {
+        "RESULTS FOR": "godot",
+        "result_balanced": {
+            "F1": 0.665086887835703,
+            "Recall": 0.665086887835703,
+            "Precision": 0.665086887835703
+        },
+        "result_augmented": {
+            "F1": 0.665086887835703,
+            "Recall": 0.665086887835703,
+            "Precision": 0.665086887835703
+        }
+    },
+    {
+        "RESULTS FOR": "terraform",
+        "result_balanced": {
+            "F1": 0.7378048780487805,
+            "Recall": 0.7378048780487805,
+            "Precision": 0.7378048780487805
+        },
+        "result_augmented": {
+            "F1": 0.7378048780487805,
+            "Recall": 0.7378048780487805,
+            "Precision": 0.7378048780487805
+        }
+    },
+    {
+        "RESULTS FOR": "QGIS",
+        "result_balanced": {
+            "F1": 0.3729903536977492,
+            "Recall": 0.3729903536977492,
+            "Precision": 0.3729903536977492
+        },
+        "result_augmented": {
+            "F1": 0.3729903536977492,
+            "Recall": 0.3729903536977492,
+            "Precision": 0.3729903536977492
+        }
+    },
+    {
+        "RESULTS FOR": "vscode",
+        "result_balanced": {
+            "F1": 0.7047434656340755,
+            "Recall": 0.7047434656340755,
+            "Precision": 0.7047434656340755
+        },
+        "result_augmented": {
+            "F1": 0.7047434656340755,
+            "Recall": 0.7047434656340755,
+            "Precision": 0.7047434656340755
+        }
+    },
+    {
+        "RESULTS FOR": "vscode",
+        "result_balanced": {
+            "F1": 0.6986721144024515,
+            "Recall": 0.6986721144024515,
+            "Precision": 0.6986721144024515
+        },
+        "result_augmented": {
+            "F1": 0.6986721144024515,
+            "Recall": 0.6986721144024515,
+            "Precision": 0.6986721144024515
+        }
+    },
+    {
+        "RESULTS FOR": "tgstation",
+        "result_balanced": {
+            "F1": 0.5634638196915777,
+            "Recall": 0.5634638196915777,
+            "Precision": 0.5634638196915777
+        },
+        "result_augmented": {
+            "F1": 0.5634638196915777,
+            "Recall": 0.5634638196915777,
+            "Precision": 0.5634638196915777
+        }
+    },
+    {
+        "RESULTS FOR": "Barotrauma",
+        "result_balanced": {
+            "F1": 0.6349206349206349,
+            "Recall": 0.6349206349206349,
+            "Precision": 0.6349206349206349
+        },
+        "result_augmented": {
+            "F1": 0.6349206349206349,
+            "Recall": 0.6349206349206349,
+            "Precision": 0.6349206349206349
+        }
+    },
+    {
+        "RESULTS FOR": "Kaiserreich-4",
+        "result_balanced": {
+            "F1": 0.5839493136219641,
+            "Recall": 0.5839493136219641,
+            "Precision": 0.5839493136219641
+        },
+        "result_augmented": {
+            "F1": 0.5839493136219641,
+            "Recall": 0.5839493136219641,
+            "Precision": 0.5839493136219641
+        }
+    }
+]
